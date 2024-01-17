@@ -46,7 +46,6 @@ class LoginView extends GetView<LoginController> {
                 },
                     child: Text("Login"))
                 )
-
               ],
             )),
       ),

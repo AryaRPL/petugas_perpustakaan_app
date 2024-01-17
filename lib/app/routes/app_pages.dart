@@ -1,5 +1,5 @@
+import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
 import '../modules/add_book/bindings/add_book_binding.dart';
 import '../modules/add_book/views/add_book_view.dart';
 import '../modules/book/bindings/book_binding.dart';
